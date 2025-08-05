@@ -35,7 +35,7 @@ This verifies the superposition or entanglement depending on your gate configura
 
 ## Accuracy
 
-This is a simulation based project, so accuracy here refers to:
+This is a simulation based project so accuracy here refers to:
 - Fidelity of the simulated results matching theoretical quantum behavior.
 - Correct interpretation of gate outputs.
 
